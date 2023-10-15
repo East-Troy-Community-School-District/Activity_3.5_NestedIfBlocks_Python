@@ -1,8 +1,8 @@
 '''
 If Statement Trace 2
 Pawelski
-1/9/2023
-Python I
+10/15/2023
+Introduction to Computer Science
 '''
 
 number = 15
